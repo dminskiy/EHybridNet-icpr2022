@@ -1,4 +1,4 @@
-# EHybridNet-icpr2022
+# Efficient Hybrid Network: Inducting Scattering Features
 
 This repository presents an implementation of the E-HybridNet.
 
